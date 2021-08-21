@@ -1,6 +1,6 @@
 #EXTM3U 
-#EXTINF: -1 group-title="Ungrouped", MAASRANGA TV
-https://cdn.naturalbd.com/j-Maasranga/tracks-v1a1/mono.m3u8
+#EXTINF: -1 group-title="Ungrouped", ZEE BANGLA
+http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8?nimblesessionid=1835816
 #EXTINF: -1 group-title="Ungrouped", EKATTOR TV
 https://youtu.be/dQibXt7x2SA
 #EXTINF: -1 group-title="Ungrouped", NAGORIK TV
