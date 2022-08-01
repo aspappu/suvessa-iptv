@@ -1,75 +1,327 @@
-#EXTM3U 
-#EXTINF: -1 group-A S PAPPU="INDIAN BANGLA", ZEE BANGLA
-http://stream.dhakaflix.com:8081/live/zeebangla/chunks.m3u8?nimblesessionid=1835816
-#EXTINF: -1 group-title="NEWS", SHOMOY TV
-http://stream.dhakaflix.com:8081/hls/somoy.m3u8/chunks.m3u8?nimblesessionid=1836259
-#EXTINF: -1 group-title="Ungrouped", NAGORIK TV
-https://cdn.naturalbd.com/NagorikTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", CHANNEL I
-https://cdn.naturalbd.com/j-ChannelI/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", DEPTO BANGLA
-https://cdn.naturalbd.com/j-DeeptoTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", GAZI TV
-https://cdn.naturalbd.com/j-GTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", CHANNEL 9
-https://cdn.naturalbd.com/j-Channel9/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", SATV
-https://cdn.naturalbd.com/j-SATV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", NTV
-https://cdn.naturalbd.com/NTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", ATN BANGLA
-https://cdn.naturalbd.com/j-ATNBangla/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", RTV
-https://cdn.naturalbd.com/j-RTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", INDEPENDENT TV
-https://cdn.naturalbd.com/j-IndependentTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", JAMUNA TV
-https://cdn.naturalbd.com/j-JamunaTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", SOMOY TV
-https://cdn.naturalbd.com/j-SomoyTv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", EKUSHEY TV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF: -1 group-title="Ungrouped", CHANNEL 24
-https://cdn.naturalbd.com/j-Channel24/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", BANGLA VISION
-https://cdn.naturalbd.com/j-BanglaVision/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", MY TV
-https://cdn.naturalbd.com/j-MyTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", BTV
-https://cdn.naturalbd.com/j-BTVWorld/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", SONY AATH
-https://cdn.naturalbd.com/SonyAath/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", ZEE BANGLA
-https://cdn.naturalbd.com/j-Zee-Bangla-HD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", STAR JALSHA
-https://cdn.naturalbd.com/j-star-jalsha/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", SONY SIX HD
-https://cdn.naturalbd.com/SonySix/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", T SPORTS
-https://cdn.naturalbd.com/j-TSports/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", LIVE SPORTS
-https://cdn.naturalbd.com/live-sports/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", SONT TEN 2
-https://cdn.naturalbd.com/SonyTen2/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", REDBULL TV
-https://cdn.naturalbd.com/RedBullTVHD/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", ASIAN TV
-https://cdn.naturalbd.com/j-AsianTV/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", ANANDA TV
-https://cdn.naturalbd.com/j-AnandaTv/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", ATN NEWS
-https://cdn.naturalbd.com/j-ATNNews/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", BIJOY TV
-https://cdn.naturalbd.com/j-BijoyTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", BOISAKHI TV
-https://cdn.naturalbd.com/j-BijoyTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", DBC NEWS
-https://cdn.naturalbd.com/j-DBCNews/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", MOHONA TV
-https://cdn.naturalbd.com/j-MohonaTV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", S A TV
-https://cdn.naturalbd.com/j-SATV/tracks-v1a1/mono.m3u8
-#EXTINF: -1 group-title="Ungrouped", SANGSAD TV
-https://cdn.naturalbd.com/j-SangsadTV/index.m3u8
-#EXTINF: -1 group-title="Ungrouped", BANGLA TV
-https://cdn.naturalbd.com/j-BanglaTV/tracks-v1a1/mono.m3u8
+#EXTM3U
+#EXTINF:-1,GAZI TV
+http://stream.asdd.cc:9191/Gazi-TV/index.m3u8
+
+#EXTINF:-1,T-sports
+http://stream.asdd.cc:9191/T-sports/index.m3u8
+
+#EXTINF:-1,MAASRANGA TV
+http://stream.asdd.cc:9191/maasranga-tv/index.m3u8
+
+#EXTINF:-1,EKATTOR TV
+http://stream.asdd.cc:9191/nexus-tv/index.m3u8
+
+#EXTINF:-1,CHANNEL I
+http://stream.asdd.cc:9191/Channel-i/index.m3u8
+
+#EXTINF:-1,DEPTO BANGLA
+http://stream.asdd.cc:9191/deepto-tv/index.m3u8
+
+#EXTINF:-1,CHANNEL 9
+http://stream.asdd.cc:9191/Channel-9/index.m3u8
+
+#EXTINF:-1,SATV
+http://stream.asdd.cc:9191/SATV/index.m3u8
+
+#EXTINF:-1,NTV
+http://stream.asdd.cc:9191/ntv/index.m3u8
+
+#EXTINF:-1,ATN BANGLA
+http://stream.asdd.cc:9191/ATN-Bangla/index.m3u8
+
+#EXTINF:-1,ATN NEWS
+http://stream.asdd.cc:9191/atn-news/index.m3u8
+
+#EXTINF:-1,ATN ISLAMIC
+https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnislamictv.stream/live-orgin/atnislamictv.stream/chunks.m3u8
+
+#EXTINF:-1,RTV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/playlist.m3u8
+
+#EXTINF:-1,INDEPENDENT TV
+http://stream.asdd.cc:9191/INDEPENDENT-TV/index.m3u8
+
+#EXTINF:-1,JAMUNA TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1,SOMOY TV
+http://stream.asdd.cc:9191/Somoy-tv/index.m3u8
+
+#EXTINF:-1,NEWS 24
+http://stream.asdd.cc:9191/News-24/index.m3u8
+
+#EXTINF:-1,DBC NEWS
+http://stream.asdd.cc:9191/DBC-News/index.m3u8
+
+#EXTINF:-1,EKUSHEY TV
+http://stream.asdd.cc:9191/Ekushey-TV/index.m3u8
+
+#EXTINF:-1,ANANDA TV
+http://stream.asdd.cc:9191/Anando-TV/index.m3u8
+
+#EXTINF:-1,BANGLA TV
+http://stream.asdd.cc:9191/Bangla-TV/index.m3u8
+
+#EXTINF:-1,BOISHAKHI TV
+http://asdd.cc:7444/live/cafe/cafe/1983.m3u8
+
+#EXTINF:-1,NEXUS TV
+http://stream.asdd.cc:9191/nexus-tv/index.m3u8
+
+#EXTINF:-1,DESH TV
+http://asdd.cc:7444/live/cafe/cafe/2190.m3u8
+
+#EXTINF:-1,BIJOY TV
+http://asdd.cc:7444/live/cafe/cafe/2361.m3u8
+
+#EXTINF:-1,ASIAN TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
+#EXTINF:-1,MOHONA TV
+http://stream.asdd.cc:9191/mohona-tv/index.m3u8
+
+#EXTINF:-1,CHANNEL 24
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+
+#EXTINF:-1,BANGLA VISION
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
+
+#EXTINF:-1,MY TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
+
+#EXTINF:-1,BTV
+http://103.106.2.152:13456/btv.m3u8
+
+#EXTINF:-1,BTV WORLD
+http://stream.asdd.cc:9191/btv-world/tracks-3,1/index.m3u8
+
+#EXTINF:-1,BTV CTG
+http://stream.asdd.cc:9191/btv-ctg/index.m3u8
+
+#EXTINF:-1,SANGSAD TV
+http://asdd.cc:7444/live/cafe/cafe/3049.m3u8
+
+#EXTINF:-1,SONY AATH
+http://stream.asdd.cc:9191/sony-aath/index.m3u8
+
+#EXTINF:-1,ZEE BANGLA HD
+http://stream.asdd.cc:9191/zee-bangla-HD/index.m3u8
+
+#EXTINF:-1,SUN BANGLA HD
+http://stream.asdd.cc:9191/sunbangla/index.m3u8 
+
+#EXTINF:-1,STAR JALSHA HD
+http://stream.asdd.cc:9191/star-jalsha/index.m3u8
+
+#EXTINF:-1,COLORS BANGLA HD
+http://stream.asdd.cc:9191/colors-bangla/index.m3u8
+
+#EXTINF:-1,JALSHA MOVIES
+http://stream.asdd.cc:9191/Jalsha-movies/index.m3u8
+
+#EXTINF:-1,ZEE BANGLA CINEMA
+http://stream.asdd.cc:9191/zee-bangla-cinema/index.m3u8
+
+#EXTINF:-1,COLORS BANGLA CINEMA
+http://stream.asdd.cc:9191/colors-bangla-cinema/index.m3u8
+
+#EXTINF:-1,TRAVEL XP HD
+http://stream.asdd.cc:9191/travel-xp/index.m3u8
+
+#EXTINF:-1,SONY HD
+http://103.55.144.46/hls/sonyen.m3u8
+
+#EXTINF:-1,STAR PLUS
+http://stream.asdd.cc:9191/Star-Plus/index.m3u8
+
+#EXTINF:-1,ZEE TV HD
+http://stream.asdd.cc:9191/zee-tv-hd/index.m3u8
+
+#EXTINF:-1,ZEE CINEMA
+http://stream.asdd.cc:9191/zee-cinema-hd/index.m3u8
+
+#EXTINF:-1,COLORS HD
+http://103.55.144.46/hls/colore-tv-hd.m3u8
+
+#EXTINF:-1,COLORS CINEPLEX
+http://stream.asdd.cc:9191/Colors-cineplex/index.m3u8
+
+#EXTINF:-1,SETMAX HD
+http://stream.asdd.cc:9191/Sony-Max/index.m3u8
+
+#EXTINF:-1,STAR GOLD 
+http://stream.asdd.cc:9191/star-gold-hd/index.m3u8
+
+#EXTINF:-1,STAR GOLD 2
+http://stream.asdd.cc:9191/star-gold-hd-2/index.m3u8
+
+#EXTINF:-1,SONY PIX HD
+http://103.55.144.46/hls/sonypixhd.m3u8
+
+#EXTINF:-1,&Flix
+http://stream.asdd.cc:9191/and-flix/index.m3u8
+
+#EXTINF:-1,AXN HD
+https://nbn.chowdhury-shaheb.com/live/nb-axn_720p/chunks.m3u8
+
+#EXTINF:-1,STAR MOVIES
+http://stream.asdd.cc:9191/star-movies/index.m3u8
+
+#EXTINF:-1,MOVIES NOW
+http://stream.asdd.cc:9191/Movies-now/index.m3u8 
+
+#EXTINF:-1,AND PICTURE HD
+http://stream.asdd.cc:9191/and-Picture-HD/index.m3u8 
+
+#EXTINF:-1,MN+
+http://stream.asdd.cc:9191/mn+/index.m3u8
+
+#EXTINF:-1,STAR WORLD HD
+http://stream.asdd.cc:9191/star-world/index.m3u8
+
+#EXTINF:-1,MNX
+http://stream.asdd.cc:9191/mnx/index.m3u8
+
+#EXTINF:-1,AND PRIVE HD
+http://stream.asdd.cc:9191/and-prive-hd/index.m3u8
+
+#EXTINF:-1,HBO HD
+http://asdd.cc:7444/live/cafe/cafe/2467.m3u8
+
+#EXTINF:-1,TLC HD
+http://stream.asdd.cc:9191/TLC/index.m3u8
+
+#EXTINF:-1,BBC WORLD
+http://103.55.144.46/hls/bbcworld.m3u8
+
+#EXTINF:-1,BBC EARTH
+http://103.55.144.46/hls/bbcearth.m3u8
+
+#EXTINF:-1,BBC Lifestyle
+http://stream.asdd.cc:9191/BBC-lifestyle/index.m3u8
+
+#EXTINF:-1,NHK WORLD JAPAN
+http://stream.asdd.cc:9191/NHK-World/index.m3u8
+
+#EXTINF:-1,DW
+http://stream.asdd.cc:9191/DW/index.m3u8
+
+#EXTINF:-1,CNN
+http://stream.asdd.cc:9191/CNN/index.m3u8
+
+#EXTINF:-1,SONY TEN 1
+http://103.55.144.46/hls/sonyten1.m3u8
+
+#EXTINF:-1,SONY TEN 2 HD
+http://103.55.144.46/hls/sonyten2.m3u8
+
+#EXTINF:-1,SONY TEN 3 HD
+http://stream.asdd.cc:9191/sony-ten-3-hd/index.m3u8
+
+#EXTINF:-1,BEIN SPORTS 1
+http://asdd.cc:7444/live/cafe/cafe/2463.m3u8
+
+#EXTINF:-1,BEIN SPORTS 2
+http://asdd.cc:7444/live/cafe/cafe/2464.m3u8
+
+#EXTINF:-1,SONY SIX HD
+http://stream.asdd.cc:9191/Sony-Six/index.m3u8
+
+#EXTINF:-1,Star Sports Select 1 HD
+http://stream.asdd.cc:9191/star-sports-select-1/index.m3u8
+
+#EXTINF:-1,Star Sports Select 2 HD
+http://stream.asdd.cc:9191/star-sports-select-2/index.m3u8
+
+#EXTINF:-1,STAR SPORTS 1
+http://stream.asdd.cc:9191/star-sports-1/index.m3u8
+
+#EXTINF:-1,STAR SPORTS 2
+http://stream.asdd.cc:9191/star-sports-2/index.m3u8
+
+#EXTINF:-1,TEN SPORTS
+http://stream.asdd.cc:9191/ten-sports/index.m3u8 
+
+#EXTINF:-1,PTV Sports
+http://stream.asdd.cc:9191/ptv-sports/index.m3u8
+
+#EXTINF:-1,REDBULL TV
+http://stream.asdd.cc:9191/Redbull-TV/index.m3u8
+
+#EXTINF:-1,EURO SPORTS
+http://103.55.144.46/hls/euro.m3u8
+
+#EXTINF:-1,Aljazeera HD
+http://stream.asdd.cc:9191/Al-Jazeera/index.m3u8
+
+#EXTINF:-1,ANIMAL PLANET
+http://stream.asdd.cc:9191/animal-planet/index.m3u8
+
+#EXTINF:-1,NAT GEO WILD
+http://stream.asdd.cc:9191/nat-geo-wild/index.m3u8
+
+#EXTINF:-1,DISCOVERY
+http://stream.asdd.cc:9191/discovery/index.m3u8
+
+#EXTINF:-1,DISCOVERY SIENCE
+http://stream.asdd.cc:9191/Discovery-Science/index.m3u8
+
+#EXTINF:-1,DURONTO TV
+http://rtmp.smartstream.video:1935/rongeentv/rongeentv/playlist.m3u8
+
+#EXTINF:-1,CARTOON NETWORK
+http://stream.asdd.cc:9191/Cartoon-Network/index.m3u8
+
+#EXTINF:-1,DISENY CARTOON
+http://stream.asdd.cc:9191/disney-jr/index.m3u8
+
+#EXTINF:-1,SONY YAY
+http://stream.asdd.cc:9191/Sony-YAY/index.m3u8
+
+#EXTINF:-1,SPACETOON
+http://stream.asdd.cc:9191/Spacetoon/index.m3u8
+
+#EXTINF:-1,NICK JR
+http://stream.asdd.cc:9191/nick-jr/index.m3u8
+
+#EXTINF:-1,NICK HD+
+http://stream.asdd.cc:9191/nick-hd/index.m3u8
+
+#EXTINF:-1,GAAN BANGLA
+http://stream.asdd.cc:9191/GaanBangla/index.m3u8
+
+#EXTINF:-1,SANGEET BANGLA
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+
+#EXTINF:-1,BFLIX
+http://stream.asdd.cc:9191/biflix/index.m3u8
+
+#EXTINF:-1,ZING
+http://asdd.cc:7444/live/cafe/cafe/3398.m3u8
+
+#EXTINF:-1,ZOOM
+http://stream.asdd.cc:9191/zoom/index.m3u8
+
+#EXTINF:-1,9XM
+http://stream.asdd.cc:9191/9XM/index.m3u8
+
+#EXTINF:-1,BINDASS
+http://stream.asdd.cc:9191/bindass/index.m3u8
+
+#EXTINF:-1,MTV
+http://stream.starplex.live:2356/tvprogram/MTV/playlist.m3u8
+
+#EXTINF:-1,9X JALWA
+http://stream.asdd.cc:9191/9XM-jalwa/index.m3u8
+
+#EXTINF:-1,MUSIC MASTI
+http://stream.asdd.cc:9191/Music-Masti/index.m3u8
+
+#EXTINF:-1,B4U MUSIC
+http://stream.starplex.live:2356/tvprogram/B4U-MUSIC/playlist.m3u8
+
+#EXTINF:-1,MUSIC INDIA
+http://stream.asdd.cc:9191/Music-india/index.m3u8u8
+
+#EXTINF:-1,TLC
+http://stream.asdd.cc:9191/TLC/index.m3u8
